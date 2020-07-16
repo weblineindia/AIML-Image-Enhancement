@@ -6,8 +6,8 @@ All notable changes to this project will be documented in this file.
 
 ## [1.0.0] - 2020-07-14
 
-### Added
-- Update CHANGELOG.md
 
-### Changed
-- Changed Readme.md
+### Added
+- Added Clahe a histogram equalizer 
+- Added Gamma correction filter 
+
