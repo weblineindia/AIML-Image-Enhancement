@@ -79,7 +79,7 @@ We also provide a free, basic support for all users who want to use image proces
 
 ## Collection of Components
 
-We have built many other components and free resources for software development in various programming languages. Kindly click here to view our [Free Resources for Software Development](https://www.weblineindia.com/software-development-resources.html).
+We have built many other components and free resources for software development in various programming languages. Kindly click here to view our [Free Resources for Software Development](https://www.weblineindia.com/communities.html).
 
 ------
 
